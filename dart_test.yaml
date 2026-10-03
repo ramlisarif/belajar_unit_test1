@@ -1,0 +1,5 @@
+test_on: "windows" #ini cuma bisa jalan di windows
+# kalau teman ganti mac-os maka hanya bisa jalan di mac-os
+tags:
+ second:
+  Skip: "second tag are skipped" # ini ketika ketemu second skip
